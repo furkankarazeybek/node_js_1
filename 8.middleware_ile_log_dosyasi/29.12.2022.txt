@@ -1,0 +1,5 @@
+Request URL : /user, Method : GET, Parametre Var mı : HAYIR, Parametre : HAYIR
+Request URL : /user/25, Method : GET, Parametre Var mı : EVET, Parametre : 25
+Request URL : /user/35, Method : GET, Parametre Var mı : EVET, Parametre : 35
+Request URL : /user/7, Method : GET, Parametre Var mı : EVET, Parametre : 7
+Request URL : /, Method : GET, Parametre Var mı : HAYIR, Parametre : HAYIR

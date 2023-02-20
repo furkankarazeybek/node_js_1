@@ -1,0 +1,18 @@
+{
+  "name": "send_grip_mail_gonderimi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^7.7.0",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}

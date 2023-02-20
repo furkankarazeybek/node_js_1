@@ -1,0 +1,10 @@
+bir web sitesinde offline iken web sitenin kullanılmasını istersek kullanılır. Mesela bir web tarayıcı oyunu(internetsiz).
+--Background Sync : internete bağlı değilken, oyunda butona basıyor, puanı artıyor vs. 
+--Adam butona bastı, eğer interneti yoksa, browser'daki db'ye yazılır. Oyun devam eder. İnternete bağlandığı anda veritabanına gidiyor veri.
+--Push Notifications : İşlemleri de yapılabilir. 
+
+
+//https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API
+
+
+node app.js ile çalıştır

@@ -1,0 +1,14 @@
+nginx -> başlat->hizmetlerden başlatılır durdurulur.
+
+nginx.conf ayarı 
+
+
+7.55--ölçeklendirme mantığı -- müsait olan port çalışır, nginx ona göre ölçekler
+16.00-- pm2 , process manager
+
+
+--pm2 stop all  //tüöünü durdurur
+--pm2 delete all // tümünü siler
+--pm 2 start //başlatır
+--pm2 list //listeler
+
